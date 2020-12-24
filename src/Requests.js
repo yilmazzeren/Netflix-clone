@@ -1,5 +1,4 @@
-/* eslint-disable no-dupe-keys */
-/* eslint-disable no-unused-vars */
+
 const API_KEY = "1f8df082547eba8a242183d2c9968dea";
 
 const requests = {
